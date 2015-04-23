@@ -1,0 +1,12 @@
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\bin\Debug\kg_Lab_1.exe.config
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\bin\Debug\kg_Lab_1.exe
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\bin\Debug\kg_Lab_1.pdb
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.csprojResolveAssemblyReference.cache
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.Form1.resources
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.Properties.Resources.resources
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.csproj.GenerateResource.Cache
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.exe
+e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.pdb
+E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\bin\Debug\kg_Lab_1.exe.config
+E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.exe
+E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.pdb

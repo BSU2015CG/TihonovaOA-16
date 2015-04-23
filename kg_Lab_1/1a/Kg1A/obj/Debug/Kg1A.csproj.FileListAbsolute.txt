@@ -1,0 +1,9 @@
+e:\оля\documents\visual studio 2013\Projects\Kg1A\bin\Debug\Kg1A.exe.config
+e:\оля\documents\visual studio 2013\Projects\Kg1A\bin\Debug\Kg1A.exe
+e:\оля\documents\visual studio 2013\Projects\Kg1A\bin\Debug\Kg1A.pdb
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.csprojResolveAssemblyReference.cache
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.Form1.resources
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.Properties.Resources.resources
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.csproj.GenerateResource.Cache
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.exe
+e:\оля\documents\visual studio 2013\Projects\Kg1A\obj\Debug\Kg1A.pdb
