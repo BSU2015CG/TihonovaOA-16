@@ -10,3 +10,21 @@ e:\оля\documents\visual studio 2012\Projects\kg_Lab_1\kg_Lab_1\obj\Debug\kg_L
 E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\bin\Debug\kg_Lab_1.exe.config
 E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.exe
 E:\Оля\Documents\GitHub\TihonovaOA-16\kg_Lab_1\kg_Lab_1\obj\Debug\kg_Lab_1.pdb
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\bin\Debug\kg_Lab_1.exe.config
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.exe
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.pdb
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\bin\Debug\kg_Lab_1.exe
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\bin\Debug\kg_Lab_1.pdb
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.csprojResolveAssemblyReference.cache
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.Form1.resources
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.Properties.Resources.resources
+E:\TihonovaOA-16\kg_Lab_1\1\kg_Lab_1\obj\Debug\kg_Lab_1.csproj.GenerateResource.Cache
+E:\З курс\_КГ 3курс\1\kg_Lab_1\bin\Debug\kg_Lab_1.exe.config
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.exe
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.pdb
+E:\З курс\_КГ 3курс\1\kg_Lab_1\bin\Debug\kg_Lab_1.exe
+E:\З курс\_КГ 3курс\1\kg_Lab_1\bin\Debug\kg_Lab_1.pdb
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.csprojResolveAssemblyReference.cache
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.Form1.resources
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.Properties.Resources.resources
+E:\З курс\_КГ 3курс\1\kg_Lab_1\obj\Debug\kg_Lab_1.csproj.GenerateResource.Cache

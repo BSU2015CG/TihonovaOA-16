@@ -339,7 +339,7 @@ namespace kg_Lab_1
                 scroll = false;
                 C = tbC.Value;
                 tC.Text = Convert.ToString((int)C);
-                CMYKtoRGB(C, M, Y, K);
+                CMYKtoRGB(C, M, Y);
                 RGBtoHSV(R, G, B);
                 RGBtoXYZ(R, G, B);
                 panel1.BackColor = Color.FromArgb((int)R, (int)G, (int)B);
@@ -354,8 +354,8 @@ namespace kg_Lab_1
             {
                 scroll = false;
                 M = tbM.Value;
-                tM.Text = Convert.ToString((int)C);
-                CMYKtoRGB(C, M, Y, K);
+                tM.Text = Convert.ToString((int)M);
+                CMYKtoRGB(C, M, Y);
                 RGBtoHSV(R, G, B);
                 RGBtoXYZ(R, G, B);
                 panel1.BackColor = Color.FromArgb((int)R, (int)G, (int)B);
@@ -370,8 +370,8 @@ namespace kg_Lab_1
             {
                 scroll = false;
                 Y = tbY1.Value;
-                tY1.Text = Convert.ToString((int)C);
-                CMYKtoRGB(C, M, Y, K);
+                tY1.Text = Convert.ToString((int)Y);
+                CMYKtoRGB(C, M, Y);
                 RGBtoHSV(R, G, B);
                 RGBtoXYZ(R, G, B);
                 panel1.BackColor = Color.FromArgb((int)R, (int)G, (int)B);
@@ -379,22 +379,7 @@ namespace kg_Lab_1
                 scroll = true;
             }
         }
-
-        private void tbK_Scroll(object sender, EventArgs e)
-        {
-            if (scroll)
-            {
-                scroll = false;
-                K = tbK.Value;
-                tK.Text = Convert.ToString((int)K);
-                CMYKtoRGB(C, M, Y, K);
-                RGBtoHSV(R, G, B);
-                RGBtoXYZ(R, G, B);
-                panel1.BackColor = Color.FromArgb((int)R, (int)G, (int)B);
-                panel2.BackColor = Color.FromArgb((int)R, (int)G, (int)B);
-                scroll = true;
-            }
-        }
+       
 
         private void RGBtoCMYK(double R, double G, double B)
         {
@@ -410,11 +395,10 @@ namespace kg_Lab_1
             }
             else
             {
-                K = Math.Min(Math.Min(1 - r, 1 - g), 1 - b);
-                C = (1 - r - K) / (1 - K) * 100;
-                M = (1 - g - K) / (1 - K) * 100;
-                Y = (1 - b - K) / (1 - K) * 100;
-                K = K * 100;
+                C = (1-r)*100;
+                M = (1-g)*100;
+                Y = (1-b)*100;
+                K = Math.Min(Math.Min(C, M), Y);
             }
 
             tC.Text = Convert.ToString((int)C);
@@ -424,32 +408,35 @@ namespace kg_Lab_1
             tY1.Text = Convert.ToString((int)Y);
             tbY1.Value = (int)Y;
             tK.Text = Convert.ToString((int)K);
-            tbK.Value = (int)K;
-
+            
             this.C = C;
             this.M = M;
             this.Y = Y;
             this.K = K;
         }
 
-        private void CMYKtoRGB(double C, double M, double Y, double K)
+        private void CMYKtoRGB(double C, double M, double Y)
         {
             double c = C / 100,
                    m = M / 100,
                    y = Y / 100,
-                   k = K / 100;
+                   K = Math.Min(Math.Min(C, M), Y);
+            tK.Text = Convert.ToString((int)K);
 
-            double R = 255 * (1 - c) * (1 - k),
-                   G = 255 * (1 - m) * (1 - k),
-                   B = 255 * (1 - y) * (1 - k);
+            //double R = 255 * (1 - c) * (1 - k),
+            //       G = 255 * (1 - m) * (1 - k),
+            //       B = 255 * (1 - y) * (1 - k);
 
+            double R = 255 * (1 - c),
+                G = 255 * (1 - m),
+                B = 255 * (1 - y);
             t1.Text = Convert.ToString((int)R);
             tbR.Value = (int)R;
             t2.Text = Convert.ToString((int)G);
             tbG.Value = (int)G;
             t3.Text = Convert.ToString((int)B);
             tbB.Value = (int)B;
-
+ 
             this.R = R; this.G = G; this.B = B;
         }
     }

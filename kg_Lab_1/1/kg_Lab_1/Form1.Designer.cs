@@ -69,7 +69,6 @@
             this.label13 = new System.Windows.Forms.Label();
             this.tbM = new System.Windows.Forms.TrackBar();
             this.tbY1 = new System.Windows.Forms.TrackBar();
-            this.tbK = new System.Windows.Forms.TrackBar();
             this.tK = new System.Windows.Forms.TextBox();
             this.tY1 = new System.Windows.Forms.TextBox();
             this.tM = new System.Windows.Forms.TextBox();
@@ -85,7 +84,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.tbC)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tbM)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tbY1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tbK)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -459,26 +457,14 @@
             this.tbY1.TabIndex = 70;
             this.tbY1.Scroll += new System.EventHandler(this.tbY1_Scroll);
             // 
-            // tbK
-            // 
-            this.tbK.Location = new System.Drawing.Point(561, 364);
-            this.tbK.Margin = new System.Windows.Forms.Padding(2);
-            this.tbK.Maximum = 100;
-            this.tbK.Name = "tbK";
-            this.tbK.Size = new System.Drawing.Size(150, 45);
-            this.tbK.TabIndex = 71;
-            this.tbK.Value = 100;
-            this.tbK.Scroll += new System.EventHandler(this.tbK_Scroll);
-            // 
             // tK
             // 
-            this.tK.Location = new System.Drawing.Point(716, 368);
+            this.tK.Location = new System.Drawing.Point(561, 365);
             this.tK.Margin = new System.Windows.Forms.Padding(2);
             this.tK.Name = "tK";
             this.tK.ReadOnly = true;
-            this.tK.Size = new System.Drawing.Size(28, 20);
+            this.tK.Size = new System.Drawing.Size(150, 20);
             this.tK.TabIndex = 72;
-            this.tK.Text = "100";
             // 
             // tY1
             // 
@@ -508,7 +494,6 @@
             this.Controls.Add(this.tM);
             this.Controls.Add(this.tY1);
             this.Controls.Add(this.tK);
-            this.Controls.Add(this.tbK);
             this.Controls.Add(this.tbY1);
             this.Controls.Add(this.tbM);
             this.Controls.Add(this.label13);
@@ -563,7 +548,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.tbC)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tbM)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tbY1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tbK)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -612,7 +596,6 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TrackBar tbM;
         private System.Windows.Forms.TrackBar tbY1;
-        private System.Windows.Forms.TrackBar tbK;
         private System.Windows.Forms.TextBox tK;
         private System.Windows.Forms.TextBox tY1;
         private System.Windows.Forms.TextBox tM;
