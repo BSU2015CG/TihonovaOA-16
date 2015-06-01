@@ -1,0 +1,38 @@
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe.config
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.baml
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.g.cs
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\App.g.cs
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5_MarkupCompile.cache
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.g.resources
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.pdb
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.exe
+c:\users\sasha\documents\visual studio 2012\Projects\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.pdb
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe.config
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.baml
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.g.cs
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\App.g.cs
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5_MarkupCompile.cache
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.g.resources
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.Properties.Resources.resources
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.csproj.GenerateResource.Cache
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.exe
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.pdb
+D:\З курс\2 семестр\КГ\Лабы\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.pdb
+D:\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe.config
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.exe
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.pdb
+D:\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.exe
+D:\CG_Lab5\CG_Lab5\CG_Lab5\bin\Debug\CG_Lab5.pdb
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.csprojResolveAssemblyReference.cache
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.baml
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\MainWindow.g.cs
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\App.g.cs
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5_MarkupCompile.cache
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.g.resources
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.Properties.Resources.resources
+D:\CG_Lab5\CG_Lab5\CG_Lab5\obj\Debug\CG_Lab5.csproj.GenerateResource.Cache
