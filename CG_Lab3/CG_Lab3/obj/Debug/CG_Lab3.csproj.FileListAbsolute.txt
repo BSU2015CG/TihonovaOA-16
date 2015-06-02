@@ -34,3 +34,12 @@ E:\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.csprojResolveAssemblyReference.cache
 E:\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.Form1.resources
 E:\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.Properties.Resources.resources
 E:\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.csproj.GenerateResource.Cache
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\bin\Debug\CG_Lab3.exe.config
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.exe
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.pdb
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\bin\Debug\CG_Lab3.exe
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\bin\Debug\CG_Lab3.pdb
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.csprojResolveAssemblyReference.cache
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.Form1.resources
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.Properties.Resources.resources
+E:\TihonovaOA-16\CG_Lab3\CG_Lab3\obj\Debug\CG_Lab3.csproj.GenerateResource.Cache

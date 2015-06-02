@@ -125,7 +125,7 @@ namespace CG_Lab3
             }
 
             canvas.Children.Add(LineDrawingAlgorithm.CreateDefaultLine(0, ((gridSize / 2) / gridStep + 1) * gridStep,
-                                                            gridSize, ((gridSize / 2) / gridStep + 1) * gridStep, Brushes.Black));
+                                                           gridSize, ((gridSize / 2) / gridStep + 1) * gridStep, Brushes.Black));
             canvas.Children.Add(LineDrawingAlgorithm.CreateDefaultLine(((gridSize / 2) / gridStep + 1) * gridStep,
                                                             gridSize, ((gridSize / 2) / gridStep + 1) * gridStep, 0, Brushes.Black));
         }
@@ -182,7 +182,7 @@ namespace CG_Lab3
             {
                 isDragging = true;
                 clickPosition = mEventArgs.GetPosition(canvas.Parent as UIElement);
-                canvas.CaptureMouse();
+              //  canvas.CaptureMouse();
             }
             else
             {
@@ -196,23 +196,26 @@ namespace CG_Lab3
                 else
                 {
                     stopWatch.Start();
+                    
                     lineDrawingAlgorithm.DrawLine(canvas, new LineDrawingAlgorithm.LineEnd(startX, startY), new LineDrawingAlgorithm.LineEnd((int)e.X, (int)e.Y));
+                    canvas.Children.Add(LineDrawingAlgorithm.CreateDefaultLine(startX, startY, (int)e.X, (int)e.Y, Brushes.Orange));
                     stopWatch.Stop();
                     ts = stopWatch.Elapsed;
                     Time = ts.TotalSeconds + " с.";
+
                     if (lineDrawingAlgorithm.GetType().Name.Equals("DigitalDifferentialAnalyzer"))
                     {
                         listBox3.Items.Add(Time);
                         DDATotalTime += ts.TotalSeconds;
                         DDACounter++;
-                        textBox3.Text = DDATotalTime/DDACounter + " c.";
+                        textBox3.Text = DDATotalTime / DDACounter + " c.";
                     }
                     if (lineDrawingAlgorithm.GetType().Name.Equals("BresenhamAlgorithm"))
                     {
                         listBox1.Items.Add(Time);
                         BresenhamTotalTime += ts.TotalSeconds;
                         BresenhamCounter++;
-                        textBox1.Text=BresenhamTotalTime/BresenhamCounter+" c.";
+                        textBox1.Text = BresenhamTotalTime / BresenhamCounter + " c.";
                     }
                     if (lineDrawingAlgorithm.GetType().Name.Equals("StepByStepAlgorithm"))
                     {
@@ -251,6 +254,7 @@ namespace CG_Lab3
 
                 prevTransformX += currentPosition.X - clickPosition.X;
                 prevTransformY += currentPosition.Y - clickPosition.Y;
+
                 transform.X = prevTransformX;
                 transform.Y = prevTransformY;
 
@@ -259,6 +263,7 @@ namespace CG_Lab3
                 canvas.RenderTransform = group;
                 clickPosition.X = currentPosition.X;
                 clickPosition.Y = currentPosition.Y;
+                //lineDrawingAlgorithm.DrawLine();
             }
         }
 
